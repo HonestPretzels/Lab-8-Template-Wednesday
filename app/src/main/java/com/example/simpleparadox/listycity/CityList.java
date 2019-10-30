@@ -22,6 +22,10 @@ public class CityList {
         cities.add(city);
     }
 
+    public boolean returnTrue() {
+        return true;
+    }
+
     /**
      * This returns a sorted list of cities
      * @return
