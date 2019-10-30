@@ -23,7 +23,7 @@ public class CityList {
     }
 
     public boolean returnTrue() {
-        return false;
+        return true;
     }
 
     /**
